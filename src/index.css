@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Courier New", Courier, monospace;
   margin: 0;
   padding: 0;
 }
@@ -35,8 +35,8 @@ input {
 
 .titulo {
   color: white;
-  text-align: center;
   padding: 1rem; 
+  text-align: center;
 }
 
 p {

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifExpertApp /> debe de cargar correctamente 1`] = `
+<Fragment>
+  <h1
+    className="titulo animate__animated animate__tada"
+  >
+    GIF APP
+  </h1>
+  <AddCategory
+    setCategories={[Function]}
+  />
+  <hr />
+  <ol>
+    <GifGrid
+      category="The Beatles"
+      key="The Beatles"
+    />
+  </ol>
+</Fragment>
+`;

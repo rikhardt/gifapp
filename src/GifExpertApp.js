@@ -5,11 +5,11 @@ import { GifGrid } from './components/GifGrid';
 const GifExpertApp = () => {
 
 
-    const [categories, setCategories] = useState(['One Punch']);
+    const [categories, setCategories] = useState(['The Beatles']);
 
     return(
         <>        
-            <h1>GifExpertApp</h1>
+            <h1 className='titulo animate__animated animate__tada'>GIF APP</h1>
             <AddCategory setCategories={setCategories} />
             <hr />
 

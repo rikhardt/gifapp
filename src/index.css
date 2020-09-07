@@ -7,6 +7,7 @@
 
 body {
   padding: 60px;
+  background-color: black;
 }
 
 input {
@@ -32,9 +33,18 @@ input {
   margin-right: 10px;
 }
 
-.card p {
-  padding: 5px;
+.titulo {
+  color: white;
   text-align: center;
+  padding: 1rem; 
+}
+
+p {
+  color: white;
+}
+
+h3 {
+  color: white;
 }
 
 .card img {
